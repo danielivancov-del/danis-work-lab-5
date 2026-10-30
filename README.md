@@ -37,7 +37,24 @@ Proiectul are ca scop afișarea a **două linii de text**, fiind o activitate pr
 
 ### 📸 Imagini din proiect
 
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="grlfd.jpg" alt="My mau" width="100%" />
+    </td>
+    <td align="center">
+      <img src="htlr.jpg" alt="..." width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="stln.jpg" alt="****" width="100%" />
+    </td>
+    <td align="center">
+      <img src="cts.jpg" alt="My mau 2" width="100%" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
