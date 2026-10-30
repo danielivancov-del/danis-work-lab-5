@@ -5,7 +5,12 @@
 
 ### ✨ Proiect realizat la Laboratorul 5
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:141E30,100:483D8B&height=180&section=header&text=PROIECT%20WEB&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
+<div align="center">
+  <h1>🌐 PROIECT WEB</h1>
+  <h3>✨ Proiect realizat la Laboratorul 5</h3>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:141E30,100:483D8B&height=180&section=header&text=&fontSize=45&fontColor=ffffff" width="100%" />
 
 <p>
   <img src="https://img.shields.io/badge/Proiect-Web-blue?style=for-the-badge&logo=github" />
