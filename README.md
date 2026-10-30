@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 🌐 PROIECT WEB
@@ -22,6 +21,18 @@
 Acest proiect reprezintă o activitate realizată în cadrul **Laboratorului 5**, în data de **30.10.2026**.
 
 Proiectul are ca scop afișarea a **două linii de text**, fiind o activitate practică de laborator.
+
+---
+
+## 👨‍💻 Despre mine
+
+Mă numesc **Ivancov Daniel** și sunt student la **FIESC – USV**.
+
+Am început să programez încă din clasa a IX-a. Orele de Informatică m-au ajutat să-mi descopăr pasiunea pentru programare și să devin tot mai interesat de domeniul IT.
+
+Îmi place să învăț lucruri noi, să descopăr tehnologii și să-mi dezvolt constant cunoștințele în domeniul programării.
+
+---
 
 ## 💻 Caracteristici
 
