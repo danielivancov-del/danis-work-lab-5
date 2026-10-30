@@ -66,7 +66,7 @@ Am început să programez încă din clasa a IX-a. Orele de Informatică m-au aj
     </td>
   </tr>
 </table>
-
+ <img src="grlfd.jpg" alt="My mau" width="100%" />
 </div>
 
 ---
