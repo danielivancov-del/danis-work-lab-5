@@ -5,12 +5,7 @@
 
 ### ✨ Proiect realizat la Laboratorul 5
 
-<div align="center">
-  <h1>🌐 PROIECT WEB</h1>
-  <h3>✨ Proiect realizat la Laboratorul 5</h3>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:141E30,100:483D8B&height=180&section=header&text=&fontSize=45&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:141E30,100:483D8B&height=180&section=header&text=PROIECT%20WEB&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <p>
   <img src="https://img.shields.io/badge/Proiect-Web-blue?style=for-the-badge&logo=github" />
@@ -42,24 +37,7 @@ Proiectul are ca scop afișarea a **două linii de text**, fiind o activitate pr
 
 ### 📸 Imagini din proiect
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="grlfd.jpg" alt="My mau" width="100%" />
-    </td>
-    <td align="center">
-      <img src="htlr.jpg" alt="..." width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="stln.jpg" alt="****" width="100%" />
-    </td>
-    <td align="center">
-      <img src="cts.jpg" alt="My mau 2" width="100%" />
-    </td>
-  </tr>
-</table>
+
 
 </div>
 
