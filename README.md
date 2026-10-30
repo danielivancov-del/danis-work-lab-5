@@ -37,19 +37,19 @@ Proiectul are ca scop afișarea a **două linii de text**, fiind o activitate pr
 
 ### 📸 Imagini din proiect
 
-<img src="grlfd.jpg" alt="My mau" width="80%" />
+<img src="grlfd.jpg" alt="My mau" width="30%" />
 
 <br><br>
 
-<img src="htlr.jpg" alt="..." width="80%" />
+<img src="htlr.jpg" alt="..." width="30%" />
 
 <br><br>
 
-<img src="stln.jpg" alt="****" width="80%" />
+<img src="stln.jpg" alt="****" width="30%" />
 
 <br><br>
 
-<img src="cts.jpg" alt="My mau 2" width="80%" />
+<img src="cts.jpg" alt="My mau 2" width="30%" />
 
 </div>
 
